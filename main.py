@@ -5,5 +5,8 @@ def main(msg):
 	// Print a message
     print(msg)
 
+def secondary():
+    print("New function")
+
 main("Hello People")
 
